@@ -1,0 +1,3 @@
+java
+
+LinkedHashMap<Integer, String> map = new LinkedHashMap<Integer, String>();
