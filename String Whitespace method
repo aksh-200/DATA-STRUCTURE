@@ -1,0 +1,3 @@
+Basically, \\s helps us to match for the single whitespace character whereas, \\s+ helps us to match the sequence of more than one whitespace character. 
+It would be more efficient if you use \\s+.
+I hope this will help. Want to know more about Java? Prefer this tutorial on Learn Java
